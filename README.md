@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-alhamydi&label=Profile%20views&color=0e75b6&style=flat" alt="omar-alhamydi" /> </p>
 
-- 🌱 I’m currently learning **java bootstrap , react native**
+- 🌱 I’m currently learning **data analysis , react , spring boot**
 
 - 👨‍💻 All of my projects are available at [https://omarftech.com/](https://omarftech.com/)
 
 - 💬 Ask me about any **Augmented reality application**
 
-- 📫 How to reach me **omar.alhamydi@nortal.com**
+- 📫 How to reach me **omar.s.alhamydi@outlook.com**
 
 - 📄 Know about my experiences [https://omarftech.com/wp-content/uploads/2023/01/OMAR-ALHAMYDI-Computer-Science.pdf](https://omarftech.com/wp-content/uploads/2023/01/OMAR-ALHAMYDI-Computer-Science.pdf)
 
